@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 
 #Update repos and install packages
 RUN apt-get update
