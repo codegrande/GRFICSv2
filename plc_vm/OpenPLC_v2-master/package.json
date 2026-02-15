@@ -2,8 +2,8 @@
   "name": "file_upload",
   "version": "0.0.1",
   "dependencies": {
-    "express": "~4.10.2",
-    "multer": "~0.1.6"
+    "express": "~4.22.0",
+    "multer": "~2.0.0"
   },
   "devDependencies": {
     "should": "~7.1.0",
